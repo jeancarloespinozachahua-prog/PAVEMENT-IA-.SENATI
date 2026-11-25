@@ -1,0 +1,61 @@
+tramo,fecha_inspeccion,antiguedad,transito,tipo_falla,severidad,pci,origen
+T00,,1,No registrado,No registrado,,98,original
+T00,,2,No registrado,No registrado,,94,original
+T00,,3,No registrado,No registrado,,88,original
+T00,,4,No registrado,No registrado,,81,original
+T00,,5,No registrado,No registrado,,74,original
+T00,,6,No registrado,No registrado,,65,original
+T00,,7,No registrado,No registrado,,57,original
+T00,,8,No registrado,No registrado,,48,original
+T00,,9,No registrado,No registrado,,38,original
+T00,,10,No registrado,No registrado,,25,original
+HCO-T01,2025-05-15,1,Alto,Losa dividida,Baja,93,simulado
+HCO-T01,2026-04-22,3,Alto,Losa dividida,Baja,79,simulado
+HCO-T01,2025-12-12,7,Alto,Despostillamiento,Media,47,simulado
+HCO-T01,2025-07-18,9,Alto,Losa dividida,Alta,26,simulado
+HCO-T01,2025-11-03,10,Alto,Grietas longitudinales,Alta,8,simulado
+HCO-T02,2025-06-29,2,Bajo,Despostillamiento,Baja,97,simulado
+HCO-T02,2025-12-16,4,Bajo,Grietas de esquina,Baja,83,simulado
+HCO-T02,2025-09-08,6,Bajo,Grietas longitudinales,Media,69,simulado
+HCO-T02,2025-02-17,8,Bajo,Despostillamiento,Media,52,simulado
+HCO-T02,2025-11-21,9,Bajo,Grietas transversales,Alta,40,simulado
+HCO-T03,2025-07-04,2,Bajo,Grietas longitudinales,Baja,98,simulado
+HCO-T03,2025-04-07,4,Bajo,Grietas longitudinales,Baja,81,simulado
+HCO-T03,2026-01-13,5,Bajo,Grietas de esquina,Baja,75,simulado
+HCO-T03,2025-04-22,7,Bajo,Escalonamiento,Media,59,simulado
+HCO-T03,2026-01-26,9,Bajo,Losa dividida,Media,42,simulado
+HCO-T04,2025-09-30,1,Bajo,Losa dividida,Baja,97,simulado
+HCO-T04,2026-02-18,6,Bajo,Grietas longitudinales,Media,65,simulado
+HCO-T04,2025-07-12,7,Bajo,Grietas de esquina,Media,56,simulado
+HCO-T04,2026-05-19,8,Bajo,Despostillamiento,Media,45,simulado
+HCO-T04,2025-08-29,10,Bajo,Losa dividida,Alta,26,simulado
+HCO-T05,2025-03-27,1,Medio,Despostillamiento,Baja,98,simulado
+HCO-T05,2026-05-30,3,Medio,Escalonamiento,Baja,90,simulado
+HCO-T05,2026-01-23,4,Medio,Grietas longitudinales,Baja,83,simulado
+HCO-T05,2025-09-03,9,Medio,Escalonamiento,Alta,36,simulado
+HCO-T05,2025-07-07,10,Medio,Grietas de esquina,Alta,21,simulado
+HCO-T06,2025-02-09,1,Bajo,Grietas longitudinales,Baja,97,simulado
+HCO-T06,2025-10-06,5,Bajo,Grietas de esquina,Baja,74,simulado
+HCO-T06,2026-02-22,7,Bajo,Grietas transversales,Media,56,simulado
+HCO-T06,2025-08-07,8,Bajo,Grietas de esquina,Media,47,simulado
+HCO-T06,2025-12-28,10,Bajo,Grietas longitudinales,Alta,21,simulado
+HCO-T07,2025-06-08,3,Alto,Despostillamiento,Baja,84,simulado
+HCO-T07,2026-02-03,4,Alto,Grietas de esquina,Baja,76,simulado
+HCO-T07,2025-02-28,5,Alto,Despostillamiento,Baja,71,simulado
+HCO-T07,2026-03-13,8,Alto,Despostillamiento,Media,41,simulado
+HCO-T07,2025-08-22,9,Alto,Grietas de esquina,Alta,27,simulado
+HCO-T08,2025-05-17,3,Alto,Grietas de esquina,Baja,80,simulado
+HCO-T08,2026-03-26,4,Alto,Grietas de esquina,Baja,75,simulado
+HCO-T08,2025-07-09,5,Alto,Grietas longitudinales,Media,68,simulado
+HCO-T08,2026-03-28,6,Alto,Losa dividida,Media,59,simulado
+HCO-T08,2026-01-20,7,Alto,Escalonamiento,Media,45,simulado
+HCO-T09,2025-05-04,1,Medio,Grietas transversales,Baja,94,simulado
+HCO-T09,2025-10-11,2,Medio,Grietas de esquina,Baja,94,simulado
+HCO-T09,2025-02-09,3,Medio,Losa dividida,Baja,79,simulado
+HCO-T09,2025-10-18,4,Medio,Escalonamiento,Baja,74,simulado
+HCO-T09,2026-01-02,5,Medio,Escalonamiento,Media,65,simulado
+HCO-T10,2026-04-27,1,Bajo,Grietas transversales,Baja,100,simulado
+HCO-T10,2025-06-01,2,Bajo,Despostillamiento,Baja,98,simulado
+HCO-T10,2026-01-08,3,Bajo,Grietas longitudinales,Baja,92,simulado
+HCO-T10,2025-01-20,5,Bajo,Grietas transversales,Baja,77,simulado
+HCO-T10,2026-04-15,8,Bajo,Losa dividida,Media,50,simulado
